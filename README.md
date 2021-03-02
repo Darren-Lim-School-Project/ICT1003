@@ -1,5 +1,6 @@
 # HEATSENSE
 ICT1003 Project Application
+
 Making use of TinyCircuit and SmartWatch
 
 Making use of the temperature sensor as well as accelerometer to integrate them into the Smart Watch.
